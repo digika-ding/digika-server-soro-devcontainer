@@ -20,7 +20,10 @@
 				"dbaeumer.vscode-eslint",
 				"ms-azuretools.vscode-docker",
 				"vscjava.vscode-gradle",
-				"vscjava.vscode-java-pack"
+				"vscjava.vscode-java-pack",
+				"eamodio.gitlens",
+				"ms-vscode.remote-repositories",
+				"ms-python.python"
 			]
 		}
 	},
@@ -36,7 +39,8 @@
 		"git": "latest",
 		"fish": "latest",
 		"java": "8",
-		"gradle": "6"
+		"gradle": "6",
+		"python": "latest"
 	},
 	"mounts": [
 		"source=/Users/dingweibing/Downloads,target=/mnt,type=bind,consistency=cached"
