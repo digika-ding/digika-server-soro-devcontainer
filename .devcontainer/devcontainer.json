@@ -23,7 +23,9 @@
 				"vscjava.vscode-java-pack",
 				"eamodio.gitlens",
 				"ms-vscode.remote-repositories",
-				"ms-python.python"
+				"mutantdino.resourcemonitor",
+				"GitHub.vscode-pull-request-github",
+				"VisualStudioExptTeam.intellicode-api-usage-examples"
 			]
 		}
 	},
@@ -39,8 +41,7 @@
 		"git": "latest",
 		"fish": "latest",
 		"java": "8",
-		"gradle": "6",
-		"python": "latest"
+		"gradle": "6"
 	},
 	"mounts": [
 		"source=/Users/dingweibing/Downloads,target=/mnt,type=bind,consistency=cached"
