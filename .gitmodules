@@ -1,0 +1,3 @@
+[submodule "digika-server-soro"]
+	path = digika-server-soro
+	url = https://github.com/hicsoft/digika-server-soro.git
